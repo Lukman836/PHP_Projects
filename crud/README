@@ -1,0 +1,12 @@
+Hi my name is Lukman and i have created this Php CRUD Operations ,
+who Perfome Action like Select , Insert , Update , Delete 
+
+added models who handles edit & delete data .
+
+File path :- http://localhost/Training/PHP/17-10-23/crud/
+
+Database :- dbLukman 
+table :- notes
+
+DB Exported cmd :- mysqldump -hlocalhost -u root -p dbLukman > dbLukman.sql --no-tablespaces
+DB Import cmd :- mysql -hlocalhost -uroot -p dbLukman < dbLukman.sql

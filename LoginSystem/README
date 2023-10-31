@@ -1,0 +1,16 @@
+In this Project we created simple login system with session user can signin than after login into the dashboard 
+
+File path :- http://localhost/Training/PHP/17-10-23/LoginSystem/welcome.php
+
+Database :- dbLukman 
+Table :- users , comments , Forum_user , Treads .
+
+DB Exported cmd :- mysqldump -hlocalhost -u root -p dbLukman > dbLukman.sql --no-tablespaces
+DB Import cmd :- mysql -hlocalhost -uroot -p dbLukman < dbLukman.sql
+
+login user :- admin1
+login pwd :- 1
+
+github :- lukman_836
+
+LinkedIn :- https://www.linkedin.com/in/lukman836/

@@ -1,0 +1,14 @@
+Created An Online Forum In php Website , in this user can post their issue or search related to their ques post a comment and answer the other user comment , along with that when user logged in than & than user can post a comment or upload a post , login and signup funcnality ,  search post option , add data in database and fetch it in front .
+
+File path :- http://localhost/Training/PHP/17-10-23/ForumProject/
+
+Database :- dbLukman 
+Table :- categories , comments , Forum_user , Treads .
+
+DB Exported cmd :- mysqldump -hlocalhost -u root -p dbLukman > dbLukman.sql --no-tablespaces
+DB Import cmd :- mysql -hlocalhost -uroot -p dbLukman < dbLukman.sql
+
+login user :- Lukman
+login pwd :- 1
+
+LinkedIn :- https://www.linkedin.com/in/lukman836/
