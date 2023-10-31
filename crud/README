@@ -10,3 +10,6 @@ table :- notes
 
 DB Exported cmd :- mysqldump -hlocalhost -u root -p dbLukman > dbLukman.sql --no-tablespaces
 DB Import cmd :- mysql -hlocalhost -uroot -p dbLukman < dbLukman.sql
+
+Github :- https://github.com/Lukman836
+LinkedIn :- https://www.linkedin.com/in/lukman836/
