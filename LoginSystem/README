@@ -11,6 +11,5 @@ DB Import cmd :- mysql -hlocalhost -uroot -p dbLukman < dbLukman.sql
 login user :- admin1
 login pwd :- 1
 
-github :- lukman_836
-
+Github :- https://github.com/Lukman836
 LinkedIn :- https://www.linkedin.com/in/lukman836/
